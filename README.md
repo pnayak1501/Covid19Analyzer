@@ -24,6 +24,11 @@ Our project is used as visual representation for present day deaths caused due t
 We also made an effort to analysis the effect of pandemic situation on deaths by calculating slopes . we prompted messages saying at which week was highest deaths and also calculated rate of spread of virus.The bar graph helps us analysis state of pandemic situation, if it is improving or worsening. <br />
 Overall we tried to blend java swings and java graphs concepts to complete the project .  <br /> 
 
+# Tools used
+●	Java Swings - Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes – an API for providing a graphical user interface for Java programs. <br />
+●	Netbeans IDE - NetBeans is an integrated development environment for Java. NetBeans allows applications to be developed from a set of modular software components called modules <br />
+●	Java JDK <br />
+●	jFreeChart - JFreeChart is an open-source framework for the programming language Java, which allows the creation of a wide variety of both interactive and non-interactive charts. <br />
 
 # SCREENSHOTS:
 ![](screenshots/1.png)
