@@ -7,6 +7,9 @@ Coronavirus disease (COVID-19) is a new strain that was discovered in 2019 and h
 Common signs of infection include respiratory symptoms, fever, cough, shortness of breath and breathing difficulties. In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome, kidney failure and even death. <br />
 Our idea is to analyze the situation of the country, by taking the input of number of cases weekly(as there is no API to do the same) and give a report at the end of the 8th week and suggest some precautionary measures to tackle the same.
 
+# Problem Statement
+In the present context Corona Virus poses high threat to human lives, economy of any country. Its been observed from many researches that an eight-week data of number of cases is required to analyze the situation of any country. So our idea is to analyze the situation of any country, by taking the input of number of cases weekly(as there is no API to do the same) and to give a report at the end of the 8th week and suggest some precautionary measures to tackle the same.
+
 
 # SCREENSHOTS:
 ![](screenshots/1.png)
