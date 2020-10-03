@@ -36,3 +36,9 @@ Overall we tried to blend java swings and java graphs concepts to complete the p
 ![](screenshots/3.png)
 ![](screenshots/4.png)
 ![](screenshots/5.png)
+
+# References
+http://www.jfree.org/jfreechart/api/javadoc/index.html <br />
+https://www.worldometers.info/coronavirus/worldwide-graphs/ <br />
+https://stackoverflow.com/questions/51574/good-java-graph-algorithm-library <br />
+https://youtu.be/RUDrjqywD1g <br />
