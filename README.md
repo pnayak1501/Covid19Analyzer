@@ -19,6 +19,12 @@ JFreeChart is open source and 100% free, which permits usage in the commercial a
 ●	It allows extensive customizations of charts. <br />
 Consider a situation where you are developing an application and you need to show the data in the form of charts, and the data itself is populated dynamically. In such a case, displaying the data in the form of charts using JFreeChart programming is very simple.
 
+# Overview of the Project
+Our project is used as visual representation for present day deaths caused due to COVID-19 attack. We used JfreeChart (java library)to draw bar graph by taking input of weekly deaths from user using Graphical User Interface. <br />
+We also made an effort to analysis the effect of pandemic situation on deaths by calculating slopes . we prompted messages saying at which week was highest deaths and also calculated rate of spread of virus.The bar graph helps us analysis state of pandemic situation, if it is improving or worsening. <br />
+Overall we tried to blend java swings and java graphs concepts to complete the project .  <br /> 
+
+
 # SCREENSHOTS:
 ![](screenshots/1.png)
 ![](screenshots/2.png)
