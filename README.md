@@ -1,5 +1,5 @@
 # Covid19Analyzer
-Covid19 Analyzer built using Java swings
+Covid19 Analyzer built using Java swings.
 
 # Abstract
 Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV). The disease has taken the world by shock and has led to many countries put their respective countries into lockdown to avoid the spread of the same. <br />
